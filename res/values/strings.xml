@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">LifeCounter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="title_activity_player1">Player1Activity</string>
+    <string name="title_activity_player">PlayerActivity</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9036615985096231/6534771706</string>
+    <string name="negone">-1</string>
+    <string name="Name">Name</string>
+    <string name="plusone">+1</string>
+    <string name="defaulthealth">20</string>
+    <string name="right">right</string>
+    <string name="left">left</string>
+    <string name="plusplus">++</string>
+    <string name="minmin">--</string>
+    <string name="Timer">Timer</string>
+    <string name="Reset">Reset</string>
+    <string name="DefaultValue">Default Value</string>
+    <string name="enterdefaultvalue">enter default value</string>
+    <string name="AlternatePlusMinus">Alternate Plus/Minus</string>
+    <string name="entervalue">enter value</string>
+    <string name="NumPlayers">Number of Players:</string>
+    <string name="pone">Player 1</string>
+    <string name="ptwo">Player 2</string>
+    <string name="pthree">Player 3</string>
+    <string name="pfour">Player 4</string>
+    <string name="entername">Enter Name</string>
+    <string name="Start">Start</string>
+    <string name="Begin">Begin</string>
+    <string name="AppTitle">Life Counter</string>
+</resources>
